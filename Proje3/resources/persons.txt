@@ -1,0 +1,7 @@
+﻿id;name;phone;type
+0;ardad;123;0
+1;user;321;1
+
+2;gjg;11;1
+2;ardad;235;1
+2;ardad;123;1
